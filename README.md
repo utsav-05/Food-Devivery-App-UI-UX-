@@ -11,6 +11,7 @@ Modern Design: Incorporating the latest UI trends to provide an attractive and f
 Responsive Design: Fully responsive designs to support various screen sizes.
 Smooth Flow: A logical user flow from onboarding to placing an order and tracking delivery.
 Interactive Components: Buttons, sliders, dropdowns, and forms designed for optimal user interaction.
+
 Design Flow
 Welcome Screen: Displays the app logo and a call-to-action to sign up or log in.
 Login/Sign-up Screen: Allows users to register or log in using their email, Google, or Facebook accounts.
